@@ -1,0 +1,19 @@
+{
+  "name": "blender-diff-review-verification",
+  "title": "検品・差分レビュー・手動検証",
+  "domain": "BlenderAddon",
+  "kind": "blender-addon",
+  "host": null,
+  "field": "Blender差分レビュー",
+  "audience": "Blender素材の修正差分を納品前に確認する制作者",
+  "workflow": "変更前後の素材、差分要点、手動確認、承認状態を検品表として残す。",
+  "requiredFields": [
+    "assetName",
+    "beforeState",
+    "afterState",
+    "verificationStep"
+  ],
+  "warningField": "visualDiffUnconfirmed",
+  "warningMessage": "視覚差分の手動確認が残っています。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}
