@@ -1,0 +1,32 @@
+{
+  "pickupRank": 59,
+  "domain": "BlenderAddon",
+  "ideaNo": 4,
+  "idea": "検品・差分レビュー・手動検証",
+  "repository": "blender-diff-review-verification",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaFolder": "D:/AI/BlenderAddon/created_idea_004_blender-diff-review-verification",
+  "zipFile": "D:/AI/BlenderAddon/created_idea_004_blender-diff-review-verification/idea_004_blender-diff-review-verification.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "blender-diff-review-verification",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/BlenderAddon/Design.md",
+    "D:/AI/IDEAS/BlenderAddon/Architecture.md",
+    "D:/AI/IDEAS/BlenderAddon/AGENTS.md",
+    "D:/AI/IDEAS/BlenderAddon/SKILL.md",
+    "D:/AI/BlenderAddon/AGENTS.md",
+    "D:/AI/BlenderAddon/SKILL.md"
+  ],
+  "hostInference": null
+}
