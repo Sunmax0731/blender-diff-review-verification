@@ -1,0 +1,11 @@
+{
+  "product": "blender-diff-review-verification",
+  "title": "検品・差分レビュー・手動検証",
+  "domain": "BlenderAddon",
+  "ideaNo": 4,
+  "platformType": "blender-addon",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
